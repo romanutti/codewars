@@ -10,4 +10,5 @@ Solving one Kata everyday from Codewars.
 ### [Java](./src/main/java)
 
 - [Multiply (8 kyu)](./src/main/java/Multiply.java)
+- [PascalCase (6 kyu)](./src/main/java/PascalCase.java)
 
