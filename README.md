@@ -1,5 +1,5 @@
 # Codewars
-Solving one Kata everyday from Codewars.
+Solving one Kata every day from Codewars.
 
 ![Profile Badge](https://www.codewars.com/users/romanutti/badges/micro)
 
